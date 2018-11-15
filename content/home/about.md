@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Reinforcement Learning",
+    "Explainable AI",
     "Robotics"
   ]
 
