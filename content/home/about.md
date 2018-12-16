@@ -12,7 +12,9 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Reinforcement Learning",
+    "Deep Learning",
     "Explainable AI",
+    "Human-Robot Interaction",
     "Robotics"
   ]
 
@@ -27,4 +29,4 @@ weight = 5
 
 # Biography
 
-I am an undergraduate student in the school of Electrical Engineering & Computer Science at Oregon State University. My research interests are in reinforcement learning, deep learning, and robotics. My current work in on explainable artificial intelligence (XAI).
+I am an undergraduate student in the School of Electrical Engineering & Computer Science at Oregon State University. My research interests are in reinforcement learning, deep learning, and robotics. My current work is on explainable artificial intelligence (XAI).
